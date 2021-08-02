@@ -22,11 +22,11 @@
 
 ### 📺  Video youtube saya yang terkini
 
+- [Constant - Belajar Python #6](https://youtu.be/Rr3qh5qd0yA)
+- [Tutorial buat 'Signup System' menggunakan Python (Malaysia)](https://youtu.be/1gY2ReYb9wg)
 - [Tutorial buat 'Login System' menggunakan Python (Malaysia)](https://youtu.be/s1RehAdT-yI)
 - [Variable - Belajar Python #5](https://www.youtube.com/watch?v=oE8TbIwFCF8)
 - [Data types - Belajar Python #4](https://www.youtube.com/watch?v=fEDwPrPxatI)
-- [print() - Belajar Python #3](https://www.youtube.com/watch?v=8CQJeIJEK4c)
-- [Install VsCode dalam Windows - Belajar Python #2](https://www.youtube.com/watch?v=KIFWuxtae_0)
 
 ---
 

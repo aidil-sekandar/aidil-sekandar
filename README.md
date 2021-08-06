@@ -8,8 +8,8 @@
 
 ### 🔗  Ikuti saya
 
-<a href="https://instagram.com/aidil_sekandar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="aidil_sekandar" height="30" width="30" /></a>
-<a href="https://www.youtube.com/c/aicode" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="smg tech" height="30" width="30" />
+<a href="https://instagram.com/aidil_sekandar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="aidil_sekandar" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/aicode" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="smg tech" height="30" width="40" />
 <a href="https://aicodes.ml/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/87560413/128514438-85cc1f28-79f2-41e3-ab09-39ea20ed209a.png" alt="smg tech" height="30" width="30" />
 
 

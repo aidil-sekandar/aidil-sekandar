@@ -22,11 +22,11 @@
 
 ### 📺  Video youtube saya yang terkini
 
-- [Constant - Belajar Python #6](https://youtu.be/Rr3qh5qd0yA)
+- [Input - Belajar Python #8 | Malaysia](https://youtu.be/V0FyURoSbWU)
+- [Arithmetic Operator - Belajar Python #7 | Malaysia](https://youtu.be/agZ2deDgWuM)
+- [Constant - Belajar Python #6 | Malaysia](https://youtu.be/Rr3qh5qd0yA)
 - [Tutorial buat 'Signup System' menggunakan Python (Malaysia)](https://youtu.be/1gY2ReYb9wg)
 - [Tutorial buat 'Login System' menggunakan Python (Malaysia)](https://youtu.be/s1RehAdT-yI)
-- [Variable - Belajar Python #5](https://www.youtube.com/watch?v=oE8TbIwFCF8)
-- [Data types - Belajar Python #4](https://www.youtube.com/watch?v=fEDwPrPxatI)
 
 ---
 

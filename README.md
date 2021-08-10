@@ -33,4 +33,4 @@
 ### 🏭 Repo saya yang terkini 
 
 - [pong-pygame](https://github.com/aidil-sekandar/pong-pygame)
-- [Tutorial-Python-Youtube](https://github.com/aidil-sekandar/Tutorial-Python-Youtube
+- [Tutorial-Python-Youtube](https://github.com/aidil-sekandar/Tutorial-Python-Youtube)

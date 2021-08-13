@@ -22,6 +22,7 @@
 
 ### 📺  Video youtube saya yang terkini
 
+- [Concatenation - Belajar Python #9 | Malaysia](https://youtu.be/kzgTIo8eBt8)
 - [Input - Belajar Python #8 | Malaysia](https://youtu.be/V0FyURoSbWU)
 - [Arithmetic Operator - Belajar Python #7 | Malaysia](https://youtu.be/agZ2deDgWuM)
 - [Constant - Belajar Python #6 | Malaysia](https://youtu.be/Rr3qh5qd0yA)

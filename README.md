@@ -15,9 +15,8 @@
 
 ### 📺  Video youtube saya yang terkini
 
+- [Multiple Assignment - Python Tips & Tricks | Malaysia](https://youtu.be/1O8z2miFjBQ)
+- [Comparison Operator - Belajar Python #10 | Malaysia](https://youtu.be/whavB0fD2Lw)
 - [Concatenation - Belajar Python #9 | Malaysia](https://youtu.be/kzgTIo8eBt8)
 - [Input - Belajar Python #8 | Malaysia](https://youtu.be/V0FyURoSbWU)
 - [Arithmetic Operator - Belajar Python #7 | Malaysia](https://youtu.be/agZ2deDgWuM)
-- [Constant - Belajar Python #6 | Malaysia](https://youtu.be/Rr3qh5qd0yA)
-- [Tutorial buat 'Signup System' menggunakan Python (Malaysia)](https://youtu.be/1gY2ReYb9wg)
-- [Tutorial buat 'Login System' menggunakan Python (Malaysia)](https://youtu.be/s1RehAdT-yI)

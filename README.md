@@ -6,13 +6,6 @@
 
 ---
 
-### 🔗  Ikuti saya
-
-<a href="https://instagram.com/aidil_sekandar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="aidil_sekandar" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/aicode" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="smg tech" height="30" width="40" />
-
----
-
 ### 📺  Video youtube saya yang terkini
 
 - [Multiple Assignment - Python Tips & Tricks | Malaysia](https://youtu.be/1O8z2miFjBQ)

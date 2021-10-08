@@ -1,6 +1,5 @@
 ## 👋  Hai, saya Aidil
 
-- 🏫 Masih belajar
-- 💻 Coding adalah hobi
+- 🏫 Sekolah Menengah
 - 🐍 Python Programmer
 - 🌐 Sedang Belajar Web development

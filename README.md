@@ -4,7 +4,7 @@
 ## 👋  Hai, saya Aidil
 
 - 🏫 Pelajar
-- 🐍 Python Programmer
+- 🐍 Intermidiate Python Programmer
 - 🌐 Sedang Belajar Web development
 
 ## 💭 Tentang Github ini

@@ -3,6 +3,6 @@
 
 ### 👋  Hai, saya Aidil
 
-- 🏫 Sekolah Menengah
+- 🏫 Pelajar
 - 🐍 Python Programmer
 - 🌐 Sedang Belajar Web development

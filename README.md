@@ -7,7 +7,7 @@
 - 🐍 Python Programmer
 - 🌐 Sedang Belajar Web development
 
-## Tentang Github ini
+## 💭 Tentang Github ini
 
 Github ini dicipta adalah bertujuan untuk menyimpan projek-projek saya. Ingin saya ingatkan, saya masih baru dalam dunia pengaturcaraan, jadi kebanyakan projek saya adalah sangat ringkas. Apa-apa pun, saya akan sentiasa cuba menambahbaik skil pengaturcaraan saya dari semasa ke semasa.
 ### Terima Kasih!

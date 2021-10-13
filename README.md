@@ -2,7 +2,7 @@
 
 ---
 
-## 👋  Hai, saya Aidil
+### 👋  Hai, saya Aidil
 
 - 🏫 Sekolah Menengah
 - 🐍 Python Programmer

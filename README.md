@@ -1,13 +1,1 @@
-![Profile Banner](https://user-images.githubusercontent.com/87560413/137114186-09ad427f-8a20-4b39-8e7f-41e6aa8bd186.png)
----
-
-## 👋  Hai, saya Aidil
-
-- 🏫 Pelajar
-- 🐍 Intermidiate Python Programmer
-- 🌐 Sedang Belajar Web development
-
-## 💭 Tentang Github ini
-
-Github ini dicipta adalah bertujuan untuk menyimpan projek-projek saya. Ingin saya ingatkan, saya masih baru dalam dunia pengaturcaraan, jadi kebanyakan projek saya adalah sangat ringkas. Apa-apa pun, saya akan sentiasa cuba menambahbaik skil pengaturcaraan saya dari semasa ke semasa.
-### Terima Kasih!
+## Hai Semua ![wave](https://camo.githubusercontent.com/e8e7b06ecf583bc040eb60e44eb5b8e0ecc5421320a92929ce21522dbc34c891/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6876524a434c467a6361737252346961377a2f67697068792e676966)

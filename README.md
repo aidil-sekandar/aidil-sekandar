@@ -10,7 +10,7 @@ Nama saya Aidil Iskandar. Saya seorang pelajar yang bercita-cita ingin menjadi s
   - [Membina laman web peribadi](https://aidil-sekandar.github.io "Aidil Iskandar")
 - [AKAN DATANG]
   - Belajar *Backend Development*
-  - BElajar CSS & JS (*Framework*)
+  - Belajar CSS & JS (*Framework*)
 
 ## *Follow Me!*
 - [Instagram](https://instagram.com/aidil_sekandar/)

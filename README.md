@@ -5,9 +5,13 @@ Nama saya Aidil Iskandar. Saya seorang pelajar yang bercita-cita ingin menjadi s
 
 
 ## Apa yang saya sedang/akan buat?
-- Belajar *Frontend Development*
-- [Membina laman web peribadi](https://aidil-sekandar.github.io "Aidil Iskandar")
+-[SEKARANG]
+  - Belajar *Frontend Development*
+  - [Membina laman web peribadi](https://aidil-sekandar.github.io "Aidil Iskandar")
+- [AKAN DATANG]
+  - Belajar *Backend Development*
+  - BElajar CSS & JS (*Framework*)
 
 ## *Follow Me!*
-* [Instagram](https://instagram.com/aidil_sekandar/)
-* [Twitter](https://twitter.com/4idil_sekandar/)
+- [Instagram](https://instagram.com/aidil_sekandar/)
+- [Twitter](https://twitter.com/4idil_sekandar/)

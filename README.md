@@ -22,8 +22,9 @@ skills = {
     "Javascript" : "Beginner",
     "Python" : "Intermediate"
 } 
+
+# Tahap skil akan berubah dari semasa ke semasa
 ```
-##### \*Tahap skil akan berubah dari semasa ke semasa.
 
 ## *Follow Me!*
 * [Instagram](https://instagram.com/aidil_sekandar/)

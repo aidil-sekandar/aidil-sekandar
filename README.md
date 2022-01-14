@@ -19,7 +19,7 @@ Nama saya Aidil Iskandar. Saya seorang pelajar yang bercita-cita ingin menjadi s
 skills = { 
     "HTML" : "Intermediate",
     "CSS" : "Intermediate",
-    "Javascript" : "Beginner",
+    "Javascript" : "Intermediate",
     "Python" : "Intermediate"
 } 
 

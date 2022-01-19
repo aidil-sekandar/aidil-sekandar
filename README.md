@@ -16,11 +16,13 @@ Nama saya Aidil Iskandar. Saya seorang pelajar yang bercita-cita ingin menjadi s
 ## Skil
 
 ```Python
-skills = { 
+skills = {
     "HTML" : "Intermediate",
     "CSS" : "Intermediate",
     "Javascript" : "Intermediate",
-    "Python" : "Intermediate"
+    "Python" : "Intermediate",
+    "Git & Github" : "Intermediate",
+    "Bash Terminal" : "Intermediate"
 } 
 
 # Tahap skil akan berubah dari semasa ke semasa

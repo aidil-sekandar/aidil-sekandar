@@ -10,8 +10,8 @@ Nama saya Aidil Iskandar. Saya seorang pelajar yang bercita-cita ingin menjadi s
   - Membina laman web peribadi
 
 * [AKAN DATANG]
-  - Belajar *Backend Development*
   - Belajar CSS & JS (*Framework*)
+  - Belajar *Backend Development*
 
 ## Skil
 

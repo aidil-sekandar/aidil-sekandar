@@ -7,7 +7,6 @@ Nama saya Aidil Iskandar. Saya seorang pelajar yang bercita-cita ingin menjadi s
 ## Apa yang saya sedang/akan buat?
 * [SEKARANG]
   - Belajar *Frontend Development*
-  - Membina laman web peribadi
 
 * [AKAN DATANG]
   - Belajar CSS & JS (*Framework*)

@@ -6,11 +6,10 @@ Nama saya Aidil Iskandar. Saya seorang pelajar yang bercita-cita ingin menjadi s
 
 ## Apa yang saya sedang/akan buat?
 * [SEKARANG]
-  - Belajar *Frontend Development*
-  - Belajar React Js
+  - React Js
+  - Bootstrap
 
 * [AKAN DATANG]
-  - Belajar CSS & JS (*Framework*)
   - Belajar *Backend Development*
 
 ## Skil

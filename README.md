@@ -2,17 +2,6 @@
 
 Nama saya Aidil Iskandar. Saya seorang pelajar yang ingin menjadi seorang *Full Stack Developer*. Saya mempunyai kemahiran dalam programming language seperti HTML5, CSS3, Javascript dan Python. Saya juga berkemahiran dalam menggunakan **GNU/Linux** dan *BASH Terminal*.
 
-
-
-## Apa yang saya sedang/akan buat?
-* [SEKARANG]
-  - Belajar:
-    - React Js
-    - Bootstrap
-
-* [AKAN DATANG]
-  - Belajar *Backend Development*
-
 ## Skil
 
 ```javascript

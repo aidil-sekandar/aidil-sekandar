@@ -1,6 +1,6 @@
 # Hai Semua! 👋
 
-Nama saya Aidil Iskandar. Saya seorang pelajar yang bercita-cita ingin menjadi seorang *Full Stack Developer*. Saya mempunyai kemahiran dalam programming language seperti HTML, CSS, Javascript dan Python. Saya juga berkemahiran dalam menggunakan **GNU/Linux** dan *BASH Terminal*.
+Nama saya Aidil Iskandar. Saya seorang pelajar yang ingin menjadi seorang *Full Stack Developer*. Saya mempunyai kemahiran dalam programming language seperti HTML5, CSS3, Javascript dan Python. Saya juga berkemahiran dalam menggunakan **GNU/Linux** dan *BASH Terminal*.
 
 
 
@@ -15,17 +15,13 @@ Nama saya Aidil Iskandar. Saya seorang pelajar yang bercita-cita ingin menjadi s
 
 ## Skil
 
-```Python
-skills = {
-    "HTML" : "Intermediate",
-    "CSS" : "Intermediate",
-    "Javascript" : "Intermediate",
-    "Python" : "Intermediate",
-    "Git & Github" : "Intermediate",
-    "Bash Terminal" : "Intermediate"
-} 
+```javascript
+const skills = {
+  language = {HTML5 : "Intermediate", CSS3 : "Intermediate", Javasript : "Intermidiate", Python : "Intermediate"};
+  framework = {react : "beginner", bootstrap : "beginner"}
+}
 
-# Tahap skil akan berubah dari semasa ke semasa
+// Tahap skil akan berubah dari semasa ke semasa
 ```
 
 ## *Follow Me!*

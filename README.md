@@ -14,5 +14,6 @@ const current_skills = {
 ```
 
 ## *Follow Me!*
+* [Links](https://links.aidiliskandar.tech/)
 * [Instagram](https://instagram.com/aidil_sekandar/)
 * [Twitter](https://twitter.com/4idil_sekandar/)

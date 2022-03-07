@@ -13,7 +13,7 @@ const current_skills = {
     Python : "Intermediate"
   },
   framework : {
-    "react js" : "beginner",
+    react : "beginner",
     bootstrap : "beginner"
   }
 }

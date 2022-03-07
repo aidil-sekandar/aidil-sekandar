@@ -7,7 +7,7 @@ Nama saya Aidil Iskandar. Saya seorang pelajar yang ingin menjadi seorang *Full 
 ```javascript
 const current_skills = {
   language = {HTML5 : "Intermediate", CSS3 : "Intermediate", Javasript : "Intermidiate", Python : "Intermediate"};
-  framework = {react : "beginner", bootstrap : "beginner"}
+  framework = {"react js" : "beginner", bootstrap : "beginner"}
 }
 
 // Tahap skil akan berubah dari semasa ke semasa

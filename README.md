@@ -1,6 +1,6 @@
 # Hai Semua! 👋
 
-Nama saya Aidil Iskandar. Saya seorang pelajar yang ingin menjadi seorang *Full Stack Developer*. Saya mempunyai kemahiran dalam programming language seperti HTML5, CSS3, Javascript dan Python. Saya juga berkemahiran dalam menggunakan **GNU/Linux** dan *BASH Terminal*.
+Nama saya Aidil Iskandar. Saya seorang pelajar yang ingin menjadi seorang *Full Stack Developer*. Saya mempunyai kemahiran dalam programming language seperti HTML, CSS, Javascript dan Python. Saya juga berkemahiran dalam menggunakan **GNU/Linux** dan *BASH Terminal*.
 
 ## Skil
 

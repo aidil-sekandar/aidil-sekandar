@@ -5,7 +5,7 @@ Nama saya Aidil Iskandar. Saya seorang pelajar yang ingin menjadi seorang *Full 
 ## Skil
 
 ```javascript
-const current_skills = {
+let current_skills = {
   language : {
     html : "Intermediate", 
     css : "Intermediate", 

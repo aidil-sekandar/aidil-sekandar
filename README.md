@@ -12,7 +12,10 @@ const current_skills = {
     Javasript : "Intermidiate",
     Python : "Intermediate"
   },
-  framework : {"react js" : "beginner", bootstrap : "beginner"}
+  framework : {
+    "react js" : "beginner",
+    bootstrap : "beginner"
+  }
 }
 
 // Tahap skil akan berubah dari semasa ke semasa

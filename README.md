@@ -13,8 +13,8 @@ let current_skills = {
     python : "Intermediate"
   },
   framework : {
-    react : "beginner",
-    bootstrap : "beginner"
+    react : "Beginner",
+    bootstrap : "Beginner"
   }
 }
 

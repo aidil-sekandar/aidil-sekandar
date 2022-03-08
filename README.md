@@ -17,7 +17,7 @@ let current_skills = {
     express : "Beginner"
   },
   backend : {
-    nodejs : beginner
+    nodejs : "beginner"
   }
 }
 

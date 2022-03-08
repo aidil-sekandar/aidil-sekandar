@@ -6,13 +6,13 @@ Nama saya Aidil Iskandar. Saya seorang pelajar yang ingin menjadi seorang *Full 
 
 ```javascript
 let current_skills = {
-  language : {
+  languages : {
     html : "Intermediate", 
     css : "Intermediate", 
     javasript : "Intermidiate",
     typescript : "Beginner"
   },
-  framework : {
+  frameworks : {
     reactJS : "Beginner",
     expressJS : "Beginner"
   },

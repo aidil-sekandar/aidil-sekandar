@@ -12,8 +12,8 @@ let current_skills = {
     javasript : "Intermidiate",
   },
   framework : {
-    react : "Beginner",
-    express : "Beginner"
+    reactjs : "Beginner",
+    expressjs : "Beginner"
   },
   backend : {
     nodejs : "beginner"

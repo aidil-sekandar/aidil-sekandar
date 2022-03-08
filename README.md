@@ -14,7 +14,10 @@ let current_skills = {
   },
   framework : {
     react : "Beginner",
-    bootstrap : "Beginner"
+    express : "Beginner"
+  },
+  backend : {
+    nodejs : beginner
   }
 }
 

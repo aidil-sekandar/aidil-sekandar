@@ -12,11 +12,11 @@ let current_skills = {
     javasript : "Intermidiate",
   },
   framework : {
-    reactjs : "Beginner",
-    expressjs : "Beginner"
+    reactJS : "Beginner",
+    expressJS : "Beginner"
   },
   backend : {
-    nodejs : "beginner"
+    nodeJS : "beginner"
   }
 }
 

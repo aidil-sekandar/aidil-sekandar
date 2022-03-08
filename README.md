@@ -10,6 +10,7 @@ let current_skills = {
     html : "Intermediate", 
     css : "Intermediate", 
     javasript : "Intermidiate",
+    typescript: "Beginner"
   },
   framework : {
     reactJS : "Beginner",

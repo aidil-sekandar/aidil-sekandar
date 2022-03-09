@@ -1,6 +1,4 @@
-# Hai Semua! 👋
-
-Nama saya Aidil Iskandar. Saya seorang pelajar yang ingin menjadi seorang *Full Stack Developer*. Saya mempunyai kemahiran dalam programming language seperti HTML, CSS dan Javascript. Saya juga berkemahiran dalam menggunakan **GNU/Linux** dan *BASH Terminal*.
+# Hai, saya **Aidil Iskandar**! 👋
 
 ## Skil
 
@@ -11,7 +9,6 @@ let current_skills = {
     css : "Intermediate", 
     javasript : "Intermidiate",
     python: "Intermediate",
-    typescript : "Beginner"
   },
   frameworks : {
     reactJS : "Beginner",

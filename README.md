@@ -1,6 +1,4 @@
-# Hai, saya **Aidil Iskandar**! 👋
-
-## Skil
+## Hai, saya **Aidil Iskandar**! 👋
 
 ```javascript
 let current_skills = {

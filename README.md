@@ -10,10 +10,9 @@ let current_skills = {
   },
   frameworks : {
     reactJS : "Beginner",
-    expressJS : "Beginner"
   },
   backend : {
-    nodeJS : "Beginner"
+    django: "Beginner"
   }
 }
 

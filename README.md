@@ -11,9 +11,6 @@ let current_skills = {
   frameworks : {
     reactJS : "Beginner",
   },
-  backend : {
-    django: "Beginner"
-  }
 }
 
 // Tahap skil akan berubah dari semasa ke semasa

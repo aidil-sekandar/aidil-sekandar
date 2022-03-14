@@ -10,7 +10,7 @@ let current_skills = {
   },
   frameworks : {
     reactJS : "Beginner",
-  },
+  }
 }
 
 // Tahap skil akan berubah dari semasa ke semasa

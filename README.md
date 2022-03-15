@@ -6,7 +6,7 @@
 ## I'm a student and an aspiring full stack developer!
 
 - 🌱 I’m currently learning backend development
-- 🥅 2022 Goals: Master the MERN stack and build real project
+- 🥅 2022 Goals: Master the MERN stack and build some real project
 - ⚡ Fun fact: I love Math and science (more to physics)
 
 ### Connect with me:

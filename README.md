@@ -24,8 +24,8 @@
 
 ```Javascript
 const currentSkills = {
-  language : ["HTML", "CSS", "Javascript & NodeJS",  "Python"],
-  framework : ["React", "Express" ],
+  languages : ["HTML", "CSS", "Javascript & NodeJS",  "Python"],
+  frameworks : ["React", "Express" ],
   db: ["Mongodb"],
   tools: ["VS Code", "Git", "Github", "Bash Terminal", "Linux"] 
 }

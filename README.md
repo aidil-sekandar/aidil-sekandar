@@ -1,15 +1,16 @@
-# Hi 👋, I'm Aidil Iskandar
-
 [![Website](https://img.shields.io/website?label=aidiliskandar.tech&style=for-the-badge&url=https%3A%2F%2Faidiliskandar.tech)](https://aidiliskandar.tech)
 [![Twitter Follow](https://img.shields.io/twitter/follow/4idil_sekandar?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/4idil_sekandar)
 
-## I'm a student and an aspiring full stack developer!
+# Hi 👋, I'm Aidil Iskandar
+### I'm a student and an aspiring full stack developer!
 
 - 🌱 I’m currently learning backend development
 - 🥅 2022 Goals: Master the MERN stack and build some real project
 - ⚡ Fun fact: I love Math and science (more to physics)
 
 ### Connect with me:
+
+
 
 [![website](./img/globe-light.svg)](https://aidiliskandar.tech#gh-light-mode-only)
 [![website](./img/globe-dark.svg)](https://aidiliskandar.tech#gh-dark-mode-only)

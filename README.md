@@ -30,6 +30,3 @@ const currentSkills = {
   tools: ["VS Code", "Git", "Github", "Bash Terminal", "Linux"] 
 }
 ```
-
-<br />
-<br />

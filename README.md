@@ -10,8 +10,6 @@
 
 ### Connect with me:
 
-
-
 [![website](./img/globe-light.svg)](https://aidiliskandar.tech#gh-light-mode-only)
 [![website](./img/globe-dark.svg)](https://aidiliskandar.tech#gh-dark-mode-only)
 &nbsp;&nbsp;
@@ -20,14 +18,3 @@
 &nbsp;&nbsp;
 [![website](./img/instagram-light.svg)](https://instagram.com/aidil_sekandar#gh-light-mode-only)
 [![website](./img/instagram-dark.svg)](https://instagram.com/aidil_sekandar#gh-dark-mode-only)
-
-### Languages and Tools:
-
-```Javascript
-const currentSkills = {
-  languages : ["HTML", "CSS", "Javascript & NodeJS",  "Python"],
-  frameworks : ["React", "Express" ],
-  db: ["Mongodb"],
-  tools: ["VS Code", "Git", "Github", "Bash Terminal", "Linux"] 
-}
-```

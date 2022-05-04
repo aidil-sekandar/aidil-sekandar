@@ -10,11 +10,6 @@
 
 ### Connect with me:
 
-[![website](./img/globe-light.svg)](https://aidiliskandar.tech#gh-light-mode-only)
-[![website](./img/globe-dark.svg)](https://aidiliskandar.tech#gh-dark-mode-only)
-&nbsp;&nbsp;
-[![website](./img/twitter-light.svg)](https://twitter.com/4idil_sekandar#gh-light-mode-only)
-[![website](./img/twitter-dark.svg)](https://twitter.com/4idil_sekandar#gh-dark-mode-only)
-&nbsp;&nbsp;
-[![website](./img/instagram-light.svg)](https://instagram.com/aidil_sekandar#gh-light-mode-only)
-[![website](./img/instagram-dark.svg)](https://instagram.com/aidil_sekandar#gh-dark-mode-only)
+[Website 🔗](https://aidiliskandar.tech)
+[Twitter 🔗](https://twitter.com/4idil_sekandar)
+[Instagram 🔗](https://instagram.com/aidil_sekandar)

@@ -8,6 +8,9 @@
 - 🥅 2022 Goals: Master the MERN stack and build some real project
 - ⚡ Fun fact: I love Math and science (more to physics)
 
+### My current project:
+[Rumki Official Website](https://rumki.netlify.app/)
+
 ### Connect with me:
 
 [Website 🔗](https://aidiliskandar.tech)

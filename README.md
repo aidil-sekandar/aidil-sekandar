@@ -10,6 +10,7 @@
 
 ### My current project:
 - [Rumki Official Website 🔗](https://rumki.netlify.app/)
+- [Fizikis 🔗](https://fizikis.netlify.app/)
 
 ### Connect with me:
 

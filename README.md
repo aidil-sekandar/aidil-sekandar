@@ -1,5 +1,5 @@
 [![Website](https://img.shields.io/website?label=aidiliskandar.tech&style=for-the-badge&url=https%3A%2F%2Faidiliskandar.tech)](https://aidiliskandar.tech)
-[![Twitter Follow](https://img.shields.io/twitter/follow/4idil_sekandar?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/4idil_sekandar)
+[![Twitter Follow](https://img.shields.io/twitter/follow/4idil_sekandar?color=1DA1F2&logo=twitter&style=for-the-badge)]([https://twitter.com/4idil_sekandar](https://twitter.com/aidilskndrr))
 
 # Hi 👋, I'm Aidil Iskandar
 ### I'm a student and an aspiring full stack developer!

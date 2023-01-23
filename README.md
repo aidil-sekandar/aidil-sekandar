@@ -1,5 +1,4 @@
 # Hi 👋, I'm Aidil Iskandar
-### I'm a student and an aspiring full stack developer!
 
 ### Connect with me:
 

@@ -36,3 +36,4 @@ Greetings! My name is **Aidil Iskandar**, a 17-year-old teenager hailing from th
 📊 Stats:
 
 ![aidil's GitHub stats](https://github-readme-stats.vercel.app/api?username=aidil-sekandar&show_icons=true&theme=gruvbox)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aidil-sekandar&layout=compact&theme=gruvbox)](https://github.com/aidil-sekandar/github-readme-stats)

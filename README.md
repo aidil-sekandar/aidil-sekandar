@@ -33,12 +33,12 @@ Greetings! My name is **Aidil Iskandar**, a 17-year-old teenager hailing from th
 <br />
 <br />
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aidil-sekandar&layout=compact&theme=gruvbox)](https://github.com/aidil-sekandar/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aidil-sekandar&layout=compact&theme=gruvbox)](https://github.com/aidil-sekandar/)
 
 
 ---
 
 📊 Stats:
 
-![aidil's GitHub stats](https://github-readme-stats.vercel.app/api?username=aidil-sekandar&show_icons=true&theme=gruvbox)
+[![aidil's GitHub stats](https://github-readme-stats.vercel.app/api?username=aidil-sekandar&show_icons=true&theme=gruvbox)](https://github.com/aidil-sekandar/)
 

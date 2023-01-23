@@ -1,6 +1,6 @@
 <img src="https://raw.githubusercontent.com/aidil-sekandar/aidil-sekandar/main/banner.jpg" alt="Banner">
 
-# 🧑‍💻 Aidil Iskandar
+## 🧑‍💻 Aidil Iskandar
 
 **`"Making the world a better place" type of kid (Student/Developer)`**
 

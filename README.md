@@ -7,4 +7,8 @@
     <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/aidil-sekandar?color=55960c&style=for-the-badge&labelColor=488207&logo=star" /></a>
 </p>
 
-My name is **Muhammad Aidil Iskandar**, an 18-year-old programmer from Malaysia with big dreams in web development and data science. I love programming and solving math problems in my free time. My goal is to use the magic of numbers to find valuable insights and make smart decisions. Follow along as I dive into the world of web development & data science and explore its endless possibilities.
+👋 Hi there! I'm Muhammad Aidil Iskandar, an aspiring Frontend Web Developer from Malaysia. At 18, I'm diving into Node.js for backend development and have a strong interest in frontend technologies like React, Next.js and Astro Js.
+
+🚀 Excited to introduce my latest project, The TEX Project, aiming to provide free STEM education in Malay through articles, YouTube tutorials, bootcamps, and hackathons. Still in its planning stage, this project has the potential to revolutionize Malaysia's science and technology industries.
+
+💡 Join me in democratizing STEM education, empowering individuals across Malaysia to excel in these vital fields. Let's collaborate and make a lasting impact together!

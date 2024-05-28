@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **Astro, Next, Go**
 
-- 👨‍💻 All of my projects are available at [https://aidiliskandar.netlify.app](https://aidiliskandar.netlify.app)
+- 👨‍💻 All of my projects are available at [https://aidiliskandar.com](https://aidiliskandar.com/#works)
 
 - 📝 I regularly write articles on [https://medium.com/@thisisaidil](https://medium.com/@thisisaidil)
 

@@ -6,7 +6,7 @@
 </p>
 
 
-- 🔭 I’m currently working on [The TEX Project](https://github.com/The-TEX-Team/the-tex-project)
+- 🔭 I’m currently working on [The TEX Project](https://github.com/The-TEX-Team/the-tex-project) and [Study With Aidil](https://github.com/aidil-sekandar/study-with-aidil)
 
 - 🌱 I’m currently learning **Astro, Next, Go**
 

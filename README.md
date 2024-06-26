@@ -1,20 +1,19 @@
-<h1 align="center">Hi 👋, I'm Muhammad Aidil Iskandar</h1>
-<h3 align="center">An aspiring Full-stack Web Developer from Malaysia.</h3>
-<p align="center">
-  <a href="https://github.com/aidil-sekandar?tab=followers">
-    <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/aidil-sekandar?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white" /></a>
-</p>
+### **Hi 👋, I'm Muhammad Aidil Iskandar**
+An aspiring Full-stack Web Developer from Malaysia.
 
+---
 
 - 🔭 Current Projects: [The TEX Project](https://github.com/The-TEX-Team/the-tex-project) and [Study With Aidil](https://github.com/aidil-sekandar/study-with-aidil)
 
 - 🌱 Learning: **Astro, Next.js, Tailwind, Go**
 
-- 👨‍💻 All of my projects are available at [https://aidiliskandar.com](https://aidiliskandar.com/#works)
+- 👨‍💻 All of my projects are available at [https://aidiliskandar.com](https://aidiliskandar.com)
 
 - 📝 I regularly write articles on [https://medium.com/@thisisaidil](https://medium.com/@thisisaidil)
 
 - 📫 Reach me at **aidiliskandar63@gmail.com**
+
+---
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

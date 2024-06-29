@@ -2,12 +2,13 @@
 An aspiring Full-stack Web Developer from Malaysia.
 
 ---
+- 🧑‍💻 Tech Executive: [Tutors in Action](https://tutors-in-action.org/)
 
 - 🔭 Current Projects: [The TEX Project](https://github.com/The-TEX-Team/the-tex-project) and [Study With Aidil](https://github.com/aidil-sekandar/study-with-aidil)
 
-- 🌱 Learning: **Astro, Next.js, Tailwind, Go**
+- 🌱 Learning: **Go, Hugo, Bootsrap**
 
-- 👨‍💻 All of my projects are available at [https://aidiliskandar.com](https://aidiliskandar.com)
+- 📔 All of my projects are available at [https://aidiliskandar.com](https://aidiliskandar.com)
 
 - 📝 I regularly write articles on [https://medium.com/@thisisaidil](https://medium.com/@thisisaidil)
 

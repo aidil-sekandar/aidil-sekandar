@@ -4,9 +4,11 @@ An aspiring Full-stack Web Developer from Malaysia.
 ---
 - 🧑‍💻 Tech Executive: [Tutors in Action](https://tutors-in-action.org/)
 
-- 🔭 Current Projects: [The TEX Project](https://github.com/The-TEX-Team/the-tex-project) and [Study With Aidil](https://github.com/aidil-sekandar/study-with-aidil)
+- 🔭 Current Projects:
+  - [Iskandar (Hugo Theme)](https://github.com/aidil-sekandar/iskandar-hugo-theme)
+  - [Study With Aidil](https://github.com/aidil-sekandar/study-with-aidil)
 
-- 🌱 Learning: **Go, Hugo, Bootsrap**
+- 🌱 Learning: **Go, Hugo, Bootstrap**
 
 - 📔 All of my projects are available at [https://aidiliskandar.com](https://aidiliskandar.com)
 

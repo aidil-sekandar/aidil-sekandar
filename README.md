@@ -1,14 +1,8 @@
 ### **Hi 👋, I'm Muhammad Aidil Iskandar**
-An aspiring Full-stack Web Developer from Malaysia.
-
----
-- 🧑‍💻 Tech Executive: [Tutors in Action](https://tutors-in-action.org/)
-
-- 🌱 Learning: **Go, Hugo, Bootstrap**
 
 - 📔 All of my projects are available at [https://aidiliskandar.com](https://aidiliskandar.com)
 
-- 📝 I regularly write articles on [https://medium.com/@thisisaidil](https://medium.com/@thisisaidil)
+- 📝 I regularly write articles on [https://aidiliskandar.com](https://aidiliskandar.com)
 
 - 📫 Reach me at **aidiliskandar63@gmail.com**
 
